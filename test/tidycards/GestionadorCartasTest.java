@@ -15,7 +15,9 @@ import static org.junit.Assert.*;
 
 /**
  *
+ * @author Juan 
  * @author Oscar
+ * @author Luis
  */
 public class GestionadorCartasTest {
 
